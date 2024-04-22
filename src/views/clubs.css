@@ -1,0 +1,322 @@
+.clubs-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.clubs-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.clubs-container2 {
+  width: 100%;
+  height: 613px;
+  display: flex;
+  align-items: flex-start;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/Videos/whatsapp%20image%202024-04-22%20at%2018.37.23-1500w.jpeg");
+  background-position: center;
+}
+.clubs-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 236px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.clubs-text {
+  font-size: 55px;
+  font-family: "Cormorant Infant";
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+.clubs-container4 {
+  width: 100%;
+  height: 252px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.clubs-heading {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 1055px;
+  height: 208px;
+  display: flex;
+  max-width: 900px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.clubs-header {
+  color: rgb(53, 43, 42);
+  font-size: 60px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Cormorant Infant";
+  font-weight: 700;
+  line-height: 60px;
+}
+.clubs-caption {
+  color: rgb(53, 43, 42);
+  font-size: 18px;
+  max-width: 600px;
+  text-align: center;
+  font-family: "Karla";
+  line-height: 27px;
+}
+.clubs-container5 {
+  width: 100%;
+  height: 621px;
+  display: flex;
+  align-items: flex-start;
+}
+.clubs-highlights {
+  gap: 220px;
+  width: 100%;
+  height: 1537px;
+  display: flex;
+  padding: var(--dl-space-space-sixunits);
+  max-width: 1440px;
+  align-items: center;
+  flex-direction: column;
+}
+.clubs-highlight {
+  gap: 120px;
+  width: 100%;
+  height: 185px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.clubs-content {
+  gap: var(--dl-space-space-threeunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.clubs-heading1 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  max-width: 500px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.clubs-header1 {
+  color: rgb(53, 43, 42);
+  font-size: 60px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Cormorant Infant";
+  font-weight: 700;
+  line-height: 60px;
+}
+.clubs-caption1 {
+  color: rgb(53, 43, 42);
+  font-size: 18px;
+  max-width: 600px;
+  text-align: left;
+  font-family: "Karla";
+  line-height: 27px;
+}
+.clubs-read-more {
+  text-decoration: none;
+}
+.clubs-text06 {
+  font-style: normal;
+  font-weight: 500;
+}
+.clubs-text07 {
+  font-style: normal;
+  font-weight: 500;
+}
+.clubs-image {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.clubs-rectangle {
+  right: -215px;
+  width: 297px;
+  bottom: -95px;
+  height: 315px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #397B53;
+}
+.clubs-image1 {
+  width: 339px;
+  height: 445px;
+  object-fit: cover;
+}
+.clubs-highlight1 {
+  gap: var(--dl-space-space-fiveunits);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.clubs-image2 {
+  height: 530px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  flex-direction: row;
+  justify-content: center;
+}
+.clubs-image3 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.clubs-content1 {
+  gap: var(--dl-space-space-threeunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.clubs-heading2 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  max-width: 500px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.clubs-header2 {
+  color: rgb(53, 43, 42);
+  font-size: 60px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Cormorant Infant";
+  font-weight: 700;
+  line-height: 60px;
+}
+.clubs-caption2 {
+  color: rgb(53, 43, 42);
+  width: 470px;
+  height: 171px;
+  font-size: 18px;
+  max-width: 600px;
+  text-align: left;
+  font-family: "Karla";
+  line-height: 27px;
+}
+.clubs-find {
+  height: 61px;
+  font-style: normal;
+  transition: 0.3s;
+  font-weight: 500;
+  padding-top: var(--dl-space-space-unit);
+  border-width: 0px;
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  border-radius: 56px;
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: rgb(250, 216, 122);
+}
+.clubs-find:hover {
+  opacity: 0.5;
+}
+.clubs-container6 {
+  width: 1167px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 279px;
+  display: flex;
+  align-items: flex-start;
+}
+.clubs-container7 {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 384px;
+  display: flex;
+  align-items: flex-start;
+}
+@media(max-width: 991px) {
+  .clubs-highlights {
+    gap: 135px;
+    align-items: flex-start;
+    padding-top: var(--dl-space-space-fourunits);
+    padding-bottom: var(--dl-space-space-fourunits);
+  }
+  .clubs-highlight {
+    gap: var(--dl-space-space-twounits);
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .clubs-highlight1 {
+    gap: var(--dl-space-space-twounits);
+    align-items: flex-start;
+    flex-direction: column-reverse;
+  }
+}
+@media(max-width: 767px) {
+  .clubs-highlights {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+    padding-right: var(--dl-space-space-oneandhalfunits);
+  }
+  .clubs-content {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .clubs-heading1 {
+    gap: var(--dl-space-space-unit);
+  }
+  .clubs-header1 {
+    font-size: 32px;
+    line-height: 30px;
+  }
+  .clubs-caption1 {
+    font-size: 16px;
+  }
+  .clubs-image2 {
+    width: 100%;
+    height: auto;
+  }
+  .clubs-content1 {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .clubs-heading2 {
+    gap: var(--dl-space-space-unit);
+  }
+  .clubs-header2 {
+    font-size: 32px;
+    line-height: 31px;
+  }
+  .clubs-caption2 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+@media(max-width: 479px) {
+  .clubs-rectangle {
+    right: -120px;
+    width: 200px;
+    bottom: -110px;
+  }
+  .clubs-image1 {
+    width: 100%;
+  }
+}
